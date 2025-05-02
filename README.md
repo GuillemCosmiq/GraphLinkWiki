@@ -31,4 +31,4 @@ Version 1.0
   - GraphLink Node to URL
   - GraphLink Node to c++ UHT symbol
   - Preview c++ UHT Symbol
-  - 'Make From Graphlink' feture to target any node in any Blueprint
+  - 'Make From Graphlink' feature to target any node in any Blueprint
