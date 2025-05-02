@@ -9,7 +9,7 @@ GraphLink is an UnrealEngine plugin that can be downloaded from Fab at LINKTOSTO
 
 GraphLink can be adcquired from the Unreal Engine Marketplace [link]. The correct version will be automatically intalled.
 
-Check the [wiki](https://github.com/GuillemCosmiq/GraphLinkWiki/wiki) for a more in detail how to use.
+Help on how to use the plugin on the Wiki: [Getting Started](https://github.com/GuillemCosmiq/GraphLinkWiki/wiki).
 
 ## Gallery
 
