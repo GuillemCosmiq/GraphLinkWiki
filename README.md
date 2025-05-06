@@ -1,5 +1,5 @@
 # GraphLinkWiki
-GraphLink is an UnrealEngine plugin that can be downloaded from Fab at LINKTOSTORE
+GraphLink is an UnrealEngine plugin that can be downloaded from [Fab](https://www.fab.com/listings/140cd78b-10c2-469a-9934-e538aa433ef9)
 
 > GraphLink allows you to quickly create visual links inside Blueprints to C++ code, Blueprints (and BP nodes), assets, or external websites. Streamline navigation and improve project organization.
 
